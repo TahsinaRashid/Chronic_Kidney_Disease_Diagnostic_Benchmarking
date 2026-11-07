@@ -1,4 +1,4 @@
-# 🩺 Automated Chronic Kidney Disease (CKD) Diagnostic Benchmarking
+# 🩺 Chronic Kidney Disease (CKD) Diagnostic Benchmarking
 
 An enterprise-grade, end-to-end Machine Learning pipeline developed to accurately classify whether a patient has **Chronic Kidney Disease (CKD)** or **Not** based on non-invasive clinical biometric features (e.g., Packed Cell Volume, Serum Creatinine, Blood Urea, and Age) using the official Kaggle dataset.
 
